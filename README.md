@@ -7,7 +7,7 @@
 
 # team.me.at
 
-Team up with me at... the people who build alongside Trevor McDougald.
+Team up with me at... the people who build alongside me.
 
 team.me.at is the collaborator and open-source team hub for the `*.me.at` family. It publishes a curated, consent-gated roster of collaborators and contributors and routes anyone who wants to join toward the right existing channel. It is deliberately separate from hiring and scheduling: there is no applicant workflow and no user input. For now the team is one person.
 
@@ -31,7 +31,7 @@ team.me.at is the collaborator and open-source team hub for the `*.me.at` family
 
 ## Part of the me.at family
 
-team.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+team.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
