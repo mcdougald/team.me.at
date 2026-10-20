@@ -1,0 +1,7 @@
+{
+  "name": "team-me-at",
+  "description": "A curated, consent-gated roster of the collaborators and open-source contributors I build with",
+  "homepage": "https://team.me.at",
+  "private": false,
+  "license": "SEE LICENSE IN LICENSE"
+}
